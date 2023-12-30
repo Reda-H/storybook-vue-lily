@@ -7,7 +7,7 @@ export default {
   tags: ['autodocs'],
   argTypes: {
     option: {
-      options: ['1', '2', '3', '4', '5', '6', '7', 'nexa', 'oswald blanc', 'questrial blanc', 'raleway white', 'syncopate black', 'syncopate white'],
+      options: ['Afterglow Regular - Brush 1', 'Afterglow Regular - Brush 2', 'Afterglow Regular - Brush 3', 'Yeseva 1', 'Logo 4', 'PT Serif', 'Nexa', 'Oswald White', 'Questrial White', 'Raleway White', 'Syncopate Black', 'Syncopate White'],
       control: 'select'
     },
     transition: {
